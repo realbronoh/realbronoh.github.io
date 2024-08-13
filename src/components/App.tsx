@@ -1,8 +1,8 @@
 import { useNavigate, useParams } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import { useEffect } from "react";
-import "./utils/i18n";
-import { Language } from "./types/i18n";
+import "../utils/i18n";
+import { Language } from "../types/i18n";
 
 function App() {
   const { lang } = useParams();
