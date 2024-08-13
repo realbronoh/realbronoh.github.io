@@ -22,7 +22,7 @@ function App() {
   }, [lang, i18n, navigate]);
 
   return (
-    <div>
+    <div className="prose">
       <h1>{t("welcome")}</h1>
       <p>{t("description")}</p>
     </div>
