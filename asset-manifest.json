@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.140f2464.css",
-    "main.js": "/static/js/main.9d902f66.js",
+    "main.css": "/static/css/main.5e4e1caf.css",
+    "main.js": "/static/js/main.be52d2ae.js",
     "static/js/453.7466a268.chunk.js": "/static/js/453.7466a268.chunk.js",
     "static/media/Pretendard-Black.woff": "/static/media/Pretendard-Black.c51355ddc1caec596031.woff",
     "static/media/Pretendard-ExtraBold.woff": "/static/media/Pretendard-ExtraBold.f6491e200d1fb5c5917b.woff",
@@ -21,14 +21,15 @@
     "static/media/Pretendard-Light.woff2": "/static/media/Pretendard-Light.1fc5521353ec20635e8e.woff2",
     "static/media/Pretendard-ExtraLight.woff2": "/static/media/Pretendard-ExtraLight.6a3dddfd84c05761ef44.woff2",
     "static/media/Pretendard-Thin.woff2": "/static/media/Pretendard-Thin.bb7cedf4446fa24dda9d.woff2",
+    "static/media/jonathan-livingston-seagull.jpg": "/static/media/jonathan-livingston-seagull.79a640e6ab30494b2339.jpg",
     "index.html": "/index.html",
     "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.140f2464.css.map": "/static/css/main.140f2464.css.map",
-    "main.9d902f66.js.map": "/static/js/main.9d902f66.js.map",
+    "main.5e4e1caf.css.map": "/static/css/main.5e4e1caf.css.map",
+    "main.be52d2ae.js.map": "/static/js/main.be52d2ae.js.map",
     "453.7466a268.chunk.js.map": "/static/js/453.7466a268.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.140f2464.css",
-    "static/js/main.9d902f66.js"
+    "static/css/main.5e4e1caf.css",
+    "static/js/main.be52d2ae.js"
   ]
 }
