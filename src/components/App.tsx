@@ -14,9 +14,10 @@ function App() {
       lang === undefined ||
       (lang !== Language.ENGLISH && lang !== Language.KOREAN);
     if (notSupportedLanguage) {
-      navigate(`/${Language.ENGLISH}`, { replace: true });
+      window.location.href = `${window.location.origin}/#/${Language.ENGLISH}`;
       return;
     }
+
     i18n.changeLanguage(lang);
     document.documentElement.lang = lang;
   }, [lang, i18n, navigate]);
