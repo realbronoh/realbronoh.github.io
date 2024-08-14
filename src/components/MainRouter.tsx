@@ -1,4 +1,4 @@
-import { createHashRouter, Navigate, RouterProvider } from "react-router-dom";
+import { createHashRouter, RouterProvider } from "react-router-dom";
 import App from "./App";
 
 const MainRouter = () => {
